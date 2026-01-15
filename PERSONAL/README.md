@@ -4,4 +4,16 @@
 ```
 python --version
 git --version
+git init
+git add .
+git commit -m "nombre del comit <!-- "laura_v1 " -->
+DESPUÉS DE IR GITHUB Y CREAR AL RESPOSIORIO
+git branch -M main
+git remote add origin https://github.com/LauraOspina1223/BOOTCAMP-IA-LAURA.git
+git push -u origin main
+
+EN LA MASTER TRABAJO, EN LA MAIN DESPLIEGO, ES DECIR CUANDO YA HE TERMINADO 
+git branch -M master
+git remote add origin https://github.com/LauraOspina1223/BOOTCAMP-IA-LAURA.git
+git push -u origin master
 ```
