@@ -17,7 +17,25 @@ git branch -M master
 git remote add origin https://github.com/LauraOspina1223/BOOTCAMP-IA-LAURA.git
 git push -u origin master
 ```
-# Desactivar el entorno virtual
+# Activación de entorno virtual
+
+env3_13_5\Scripts\activate  
 ```
+```
+# Desactivar el entorno virtual
+
 deactivate
 ```
+```
+# comandos CDM
+| Comando | Descripción          |
+| ------- | -------------------- |
+| `cd`    | cambio de directorio |
+| `dir`   | listar               |
+
+```
+```
+python.exe -m pip install --upgrade
+pip install pytest
+pip list
+
